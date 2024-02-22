@@ -1,0 +1,8 @@
+.board{
+  display: block;
+}
+
+.row{
+  height: 100px;
+  width :300px;
+}
